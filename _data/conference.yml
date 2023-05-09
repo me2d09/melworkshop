@@ -11,12 +11,12 @@ full_title: 1st Magnetoelastic Workshop
 short_title: 1st MELW 2023
 
 year: 2023
-date: Septemer 7-8, 2023
+date: Septemer 18-19, 2023
 
 location: Charles University, Prague
 country: Czechia
 
-logo_path: "" # ./assets/images/logo.jpg
+logo_path: "./assets/images/logo.svg"
 slideshow:
   - id: 0
     image_path: ./assets/images/slideshow/1-cuni.jpg  
@@ -34,6 +34,21 @@ slideshow:
     description: Prague
     photographer_name: "Jorge Royan (CC BY-SA 3.0)"
     photographer_link: "http://www.royan.com.ar/"
+  - id: 3
+    image_path: ./assets/images/slideshow/1-cuni.jpg  
+    description: Charles University
+    photographer_name: ""
+    photographer_link: ""
+  - id: 4
+    image_path: ./assets/images/slideshow/2-impact.jpg  
+    description: Venue
+    photographer_name: ""
+    photographer_link: ""
+  - id: 5
+    image_path: ./assets/images/slideshow/3-charlesbridge.jpg
+    description: Prague
+    photographer_name: "Jorge Royan (CC BY-SA 3.0)"
+    photographer_link: "http://www.royan.com.ar/"
 navbar:
   - id: 0
     label: Home
@@ -43,14 +58,14 @@ navbar:
     label: Organization
     path: /organization.html
     visible: True
-  - id: 2
+  - id: 11
     label: Call for Papers
     path: /cfp.html
-    visible: True
-  - id: 3
+    visible: False
+  - id: 10
     label: Submission
     path: /submission.html
-    visible: True
+    visible: False
   - id: 4
     label: Programs
     path: /program.html
@@ -59,22 +74,22 @@ navbar:
     label: Venue
     path: /venue.html
     visible: True
-  - id: 6
+  - id: 2
     label: Registration
     path: /registration.html
     visible: True
-deadline_timezone: AoE
+deadline_timezone: CET
 deadlines:
-  - date: 2023-09-18
+  - date: 2023-08-07
     # timezone: AoE
-    text: Submission deadline
+    text: Registration deadline
     pass_due: False
-  - date: 2023-11-20
-    text: Notification of acceptance
-    pass_due: False
-  - date: 2024-01-08
-    text: Camera-ready due
-    pass_due: False
+  #- date: 2023-11-20
+  #  text: Notification of acceptance
+  #  pass_due: False
+  #- date: 2023-01-08
+  #  text: Camera-ready due
+  #  pass_due: False
 # sponsors:
 #   - name: ACM
 #     logo_path: ./assets/images/sponsors/acm-logo.png
