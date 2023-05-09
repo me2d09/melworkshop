@@ -55,7 +55,7 @@ exclude:
   - .github/
   - .gitignore
 
-timezone: India/Kolkata
+timezone: Europe/Prague
 google_analytics: ""
 
 plugins:
