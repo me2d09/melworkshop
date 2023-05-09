@@ -16,7 +16,7 @@ date: Septemer 18-19, 2023
 location: Charles University, Prague
 country: Czechia
 
-logo_path: "./assets/images/logo.svg"
+logo_path: "" #"./assets/images/logo.svg"
 slideshow:
   - id: 0
     image_path: ./assets/images/slideshow/1-cuni.jpg  
