@@ -25,7 +25,7 @@ schedule:
      events:
        - title: "Introduction"
          speakers: "Michal Stekiel, Petr Čermák"
-       - title: "Hybrid modes in CeCuAl3"
+       - title: "Hybrid modes in CeAuAl3"
          speakers: "Petr Čermák, Charles University"
        - title: "Polarized Experiments with CeAuAl3"
          speakers: "Michal Stekiel, FZ Jüelich"
