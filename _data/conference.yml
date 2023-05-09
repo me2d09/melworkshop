@@ -1,21 +1,20 @@
-full_name: International Sanskrit Computational Linguistics Symposium
-short_name: ISCLS
+full_name: Magnetoelastic Workshop 
+short_name: MELW
 description: > # this means to ignore newlines until "baseurl:"
-  ISCLS is a forum for original and unpublished research on various
-  aspects of Computational Linguistics and Digital Humanities related to
-  Sanskrit (Classical and Vedic), Prakrit, Pali, Buddhist Hybrid Sanskrit, etc.
+  Magnetoelastic Workshop is a small workshop dedicated to the phonon electron coupling
+  and in general breaking of the Born-Oppenheimer approximation.
 
 email: iscls@outlook.com
 
-iteration: 7th
-full_title: 7th International Sanskrit Computational Linguistics Symposium
-short_title: 7th ISCLS 2024
+iteration: 1st
+full_title: 1st Magnetoelastic Workshop
+short_title: 1st MELW 2023
 
-year: 2024
-date: February 15-17, 2024
+year: 2023
+date: Septemer 7-8, 2023
 
-location: Auroville, Puducherry
-country: India
+location: Charles University, Prague
+country: Czechia
 
 logo_path: "" # ./assets/images/logo.jpg
 slideshow:
