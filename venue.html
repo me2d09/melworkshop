@@ -1,7 +1,7 @@
 ---
 title: Venue
 layout: page
-slide_id: 5
+slide_id: 2
 ---
 
 <div class="row mt-xs-0 mt-sm-0 my-2">
@@ -39,8 +39,8 @@ slide_id: 5
         <p>
             {{site.data.venue.directions}}
         </p>
-
+        {% if site.data.venue.direction %}
         <img class="img-fluid" src="{{site.data.venue.direction}}" alt="direction">
-
+        {% endif %}
     </div>
 </div>

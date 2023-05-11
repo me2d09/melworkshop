@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Magnetoelastic Workshop is a small workshop dedicated to the phonon electron coupling
   and in general breaking of the Born-Oppenheimer approximation.
 
-email: iscls@outlook.com
+email: petr.cermak@matfyz.cuni.cz
 
 iteration: 1st
 full_title: 1st Magnetoelastic Workshop
@@ -34,21 +34,6 @@ slideshow:
     description: Prague
     photographer_name: "Jorge Royan (CC BY-SA 3.0)"
     photographer_link: "http://www.royan.com.ar/"
-  - id: 3
-    image_path: ./assets/images/slideshow/1-cuni.jpg  
-    description: Charles University
-    photographer_name: ""
-    photographer_link: ""
-  - id: 4
-    image_path: ./assets/images/slideshow/2-impact.jpg  
-    description: Venue
-    photographer_name: ""
-    photographer_link: ""
-  - id: 5
-    image_path: ./assets/images/slideshow/3-charlesbridge.jpg
-    description: Prague
-    photographer_name: "Jorge Royan (CC BY-SA 3.0)"
-    photographer_link: "http://www.royan.com.ar/"
 navbar:
   - id: 0
     label: Home
@@ -58,23 +43,23 @@ navbar:
     label: Organization
     path: /organization.html
     visible: True
-  - id: 11
-    label: Call for Papers
-    path: /cfp.html
-    visible: False
-  - id: 10
-    label: Submission
-    path: /submission.html
-    visible: False
-  - id: 4
+#  - id: 2
+#    label: Call for Papers
+#    path: /cfp.html
+#    visible: False
+#  - id: 3
+#    label: Submission
+#    path: /submission.html
+#    visible: False
+  - id: 2
     label: Programs
     path: /program.html
     visible: True
-  - id: 5
+  - id: 3
     label: Venue
     path: /venue.html
     visible: True
-  - id: 2
+  - id: 4
     label: Registration
     path: /registration.html
     visible: True
@@ -90,11 +75,9 @@ deadlines:
   #- date: 2023-01-08
   #  text: Camera-ready due
   #  pass_due: False
-# sponsors:
-#   - name: ACM
-#     logo_path: ./assets/images/sponsors/acm-logo.png
-#   - name: IEEE
-#     logo_path: ./assets/images/sponsors/ieee-logo.gif
+sponsors:
+  - name: MLZ Garching, Quantum phenomena group
+    logo_path: ./assets/images/sponsors/mlz.png
 # social_media:
 #   facebook_link:
 #   twitter_link:

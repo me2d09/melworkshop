@@ -10,4 +10,4 @@ accommodation:
   hotels:
     - name: TBA
       address: TBA
-direction: ./assets/images/direction.png
+#direction: ./assets/images/direction.png
