@@ -1,13 +1,11 @@
 address: >
-  V Holešovičkách 2,
-  CZ-18000 Praha 8
+  Ke Karlovu 5,
+  CZ-18000 Praha 2
   Czech Republic
-directions: >
-  TBA
 accommodation:
   instructions: >
-    TBA
+    Following hotel is in the walking distance of the venue.
   hotels:
-    - name: TBA
-      address: TBA
-#direction: ./assets/images/direction.png
+    - name: Clarion Hotel Prague City
+      address: Tylovo náměstí 15/3, 120 00 Prague
+  direction: ./assets/images/direction.png
